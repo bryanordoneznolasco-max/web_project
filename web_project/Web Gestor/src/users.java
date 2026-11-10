@@ -9,5 +9,8 @@ public class users {
         String nombreUser = teclado.nextLine();
         System.out.println(nombreUser);
         //askjdhajkshdjk
+        System.out.println(nombreUser);
+        System.out.println(nombreUser);
+
     }
 }
